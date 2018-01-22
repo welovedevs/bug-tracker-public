@@ -1,5 +1,5 @@
-![image](https://process.filestackapi.com/resize=width:955,height:500,fit:crop,align:top/compress/fT2IyP6UStymEciKLOfi
-)
+[![image](https://process.filestackapi.com/resize=width:955,height:500,fit:crop,align:top/compress/fT2IyP6UStymEciKLOfi
+)](https://welovedevs.com)
 
 # Bug Tracker for WeLoveDevs.com
 This is a great place to report bugs in a collaborative way and track the evolution of the issue !
@@ -21,3 +21,5 @@ WeLoveDevs.com is a great place for any developers who is looking for a better j
 Learn about the people working at more than 1000 different companies, about what they build, what they share !
 
 Connect with the companies developers truly loves !
+
+[Learn how now !](https://welovedevs.com)
