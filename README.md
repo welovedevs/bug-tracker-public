@@ -4,7 +4,7 @@
 # Bug Tracker for WeLoveDevs.com
 This is a great place to report bugs in a collaborative way and track the evolution of the issue !
 
-This place is awesome for any who would like to help us improve our product and our service.
+This place is awesome for anyone who would like to help us improve our product and our service : [SUBMIT AN ISSUE](https://github.com/welovedevs/bug-tracker-public/issues/new)
 
 You can also use the LiveChat to report a bug or send an email to [yourfriends@welovedevs.com](yourfriends@welovedevs.com)
 
